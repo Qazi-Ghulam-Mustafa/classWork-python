@@ -36,3 +36,43 @@ elif userInput==1:
 
 
 """
+
+# Check conditions
+# userInput=float(input("Enter your marks :"))
+
+# if(userInput>=90):
+#     print("COngratulation You take A+")
+# elif(userInput>=80):
+#     print("A")
+# elif(userInput>=70):
+#     print("B")
+# elif(userInput>=60):
+#     print("c")
+# elif(userInput>=50):
+#     print("D")
+# else:
+#     print("Better luck for next time unfortunatky your fail!")
+
+# set={}
+# fruit={"Apple","Banana","Mango"}
+
+# List=[]
+# fruits=["Apple","Banana","Mango"]
+# values = [
+#     12, 45, 67, 23, 89, 34, 56, 78, 90, 11,
+#     5, 18, 42, 63, 27, 81, 39, 54, 72, 96,
+#     14, 31, 58, 76, 93, 8, 22, 47, 69, 85,
+#     16, 37, 51, 74, 98, 3, 25, 44, 61, 87,
+#     19, 33, 49, 66, 82, 7, 29, 53, 71, 94,
+#     10, 36, 57, 79, 91, 4, 21, 46, 64, 88,
+#     13, 32, 59, 73, 97, 6, 24, 41, 68, 84,
+#     17, 38, 52, 77, 92, 2, 28, 48, 62, 86,
+#     15, 35, 55, 75, 95, 9, 26, 43, 65, 83,
+#     20, 30, 50, 70, 80, 1, 40, 60, 100, 99
+# ]
+# for v in values:
+#     print(v)
+
+# print(len(fruit))
+# Tupple=()
+# fruit=("Apple","Banana","Mango")
